@@ -1,0 +1,6 @@
+- name: John Doe
+  role: Developer
+  image: /assets/images/john_doe.png
+- name: Jane Smith
+  role: Designer
+  image: /assets/images/jane_smith.png
